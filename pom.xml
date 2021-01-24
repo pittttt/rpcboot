@@ -41,7 +41,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>4.1.31.Final</version>
+			<version>4.1.42.Final</version>
 		</dependency>
 
 		<!-- zk -->
